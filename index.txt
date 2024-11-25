@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الجالية الفلسطينية - جامعة العلوم والتكنولوجيا الأردنية</title>
+    <style>
+        /* إعدادات أساسية */
+        body {
+            font-family: 'Tajawal', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #343a40;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(135deg, #006400, #228b22);
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        header img {
+            width: 120px;
+            height: auto;
+            margin-bottom: 10px;
+        }
+        header h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        section h2 {
+            font-size: 1.8em;
+            color: #006400;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 5px;
+        }
+        section p {
+            font-size: 1.1em;
+            margin: 10px 0;
+            text-align: justify;
+        }
+
+        .contact-info, .social-links {
+            margin-top: 20px;
+        }
+        .contact-info p, .social-links p {
+            font-size: 1.1em;
+            margin: 8px 0;
+        }
+
+        .social-links a {
+            display: inline-block;
+            margin: 0 10px;
+            color: #006400;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+        footer a {
+            color: #FFD700;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="C:\Users\DELL\Desktop\مشروع\palestine.jpeg" alt="شعار الجالية الفلسطينية">
+    <h1>الجالية الفلسطينية</h1>
+    <p>جامعة العلوم والتكنولوجيا الأردنية</p>
+</header>
+
+<div class="container">
+    <!-- فقرة البداية -->
+    <section>
+        <h2>البداية</h2>
+        <p>
+		نعمل على تعزيز روح التعاون والانتماء بين الطلبة الفلسطينيين وتوفير بيئة جامعية تدعم القضايا الثقافية والوطنية.
+		تم تأسيس الجالية الفلسطينية في جامعة العلوم والتكنولوجيا الأردنية في عام 2005، حيث تضم الجالية نخبة من طلبة العلم الفلسطينيين
+        </p>
+    </section>
+
+    <!-- فقرة المساندة -->
+    <section>
+        <h2>المساندة التي نقدمها</h2>
+        <p>
+            
+		نقدم الدعم الأكاديمي والاجتماعي للطلاب الفلسطينيين من خلال الأنشطة التوعوية والبرامج الإرشادية، كما نسعى لتسهيل تكيف الطلبة الجدد مع البيئة الجامعية.
+		تسعى الجالية الفلسطينية في جامعة العلوم والتكنولوجيا الأردنية بشكل اساسي، إلى توفير كلا ما يحتاجة الطالب الفلسطيني من خدمات عدَّة داخل الجامعة وخارجها، كالإرشاد الطلابي، التعريف بالجامعة والتخصصات، تأمين السكن
+المناسب وتقديم النصح بأفضل الخيارات من ذوي الخبرة من أعضاء الجالية السابقين وإدارييها
+        </p>
+    </section>
+
+    <!-- فقرة فعالياتنا -->
+    <section>
+        <h2>فعالياتنا</h2>
+        <p>
+            تشمل فعاليات الجالية إقامة الأنشطة الثقافية مثل الأمسيات الشعرية والمعارض التراثية، بالإضافة إلى النشاطات الاجتماعية كالتجمعات الطلابية والرحلات الترفيهية.
+			تعكف الجالية الفلسطينية على المشاركة في المحافل والمسابقات والمناسبات لتمثيل الشعب الفلسطيني فيها بأفضل الوسائل وإقامة فعاليات ترفيهيه لأعضاء الجالية.
+لم يقتصر دور الجالية على ذلك، بل شمل ايضا مبادراتهم الخيرية والتطوعية، لتكون بذلك منظمة متكاملة تسعى لتحقيق رسالتها وأهدافها المتمثلة بضرورة التمسك بالجماعة وتعزيز قيم الخير والعطاء بين ابناء الجالية بعضهم وبين الناس جميعًا.
+        </p>
+    </section>
+
+    <!-- معلومات التواصل -->
+    <section>
+        <h2>معلومات التواصل</h2>
+        <div class="contact-info">
+            <p><strong>رئيس الجالية:</strong> احمد عبد الجبار السعيد</p>
+            <p><strong>نائب رئيس الجالية:</strong> محمد الزعبي</p>
+            <p><strong>رقم واتساب للتواصل:</strong> 972545603224</p>
+        </div>
+
+        <div class="social-links">
+            <p>
+                <a href="https://web.facebook.com/groups/1636930639726378" target="_blank">فيسبوك</a> |
+                <a href="https://www.instagram.com/palestine.just?igsh=MWZqYmN0cmc1ZnU2ZA==" target="_blank">إنستغرام</a> |
+                <a href="https://www.instagram.com/palestine.just?igsh=MWZqYmN0cmc1ZnU2ZA==" target="_blank">متجر الجالية</a>
+            </p>
+        </div>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 الجالية الفلسطينية - جامعة العلوم والتكنولوجيا الأردنية | <a href="https://yourwebsite.com" target="_blank">موقعنا الإلكتروني</a></p>
+</footer>
+
+</body>
+</html>
